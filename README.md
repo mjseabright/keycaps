@@ -13,6 +13,8 @@ I plan to include the following:
 * DCS
 * Anything else I get hold of
 
+![SA Keycap](https://raw.githubusercontent.com/mjseabright/keycaps/master/images/sa_blue.PNG "SA Keycap")
+
 ## Resolution settings
 ### extreme
 Distance threshold: 0.003
@@ -29,3 +31,4 @@ The Solidworks 'fine' defaults
 
 ### low
 The Solidworks 'coarse' defaults
+
