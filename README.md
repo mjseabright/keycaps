@@ -15,16 +15,20 @@ I plan to include the following:
 
 ![SA Keycap](https://raw.githubusercontent.com/mjseabright/keycaps/master/images/sa_blue.PNG "SA Keycap")
 
+![SA Keycaps from the top](https://raw.githubusercontent.com/mjseabright/keycaps/master/images/sa_top_60.PNG "SA Keycaps from the top")
+
+![SA Keycaps from the side](https://raw.githubusercontent.com/mjseabright/keycaps/master/images/sa_side.PNG "SA Keycaps from the side")
+
 ## Resolution settings
 ### extreme
-Distance threshold: 0.003
+Distance threshold: 0.003 mm
 
-Angle threshold: 1.5
+Angle threshold: 1.5&deg;
 
 ### high
-Distance threshold: 0.008
+Distance threshold: 0.008 mm
 
-Angle threshold: 5
+Angle threshold: 5&deg;
 
 ### med
 The Solidworks 'fine' defaults
